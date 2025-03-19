@@ -3,7 +3,7 @@
 
 **Project Supervisor:** Dr. S Durga Padmaja Bikkuri  
 
-## Mini Project 
+##  Project 
 - Designed a metasurface capable of polarization conversion across four frequency bands: three for linear-to-linear and one for linear-to-circular polarization.
 - Analyzed the metasurface's performance by plotting response graphs.
 - The designed metasurface operates within the C frequency band range.
