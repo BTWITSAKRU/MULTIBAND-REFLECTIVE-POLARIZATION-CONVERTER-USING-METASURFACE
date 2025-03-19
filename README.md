@@ -19,7 +19,8 @@ Building on this, we have now designed a metasurface operating as a polarization
 - Analyze the designed metasurface by calculating the axial ratio, current distributions, and determining ellipticity to evaluate polarization performance.
 - Fabricate the metasurface to test its performance in real-world conditions.
 - Compare the simulated results with experimental results.
-
+## VIDEO PRESENTATION LINK 
+- https://drive.google.com/file/d/1GlUQgeFUWyYn00-yvmYi_zEJ6XQpME3s/view?usp=sharing
 ## Group Details 
 - BU21EECCE0100200 REDDY SOMA SAI SATYA SNIGDHA
 - BU21EECE0100097 K SAI PRADYUMNA MAHADEV
